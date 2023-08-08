@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $( scale =2 & printf  $POWER / $DIVIDE)
+echo $( scale =2 & printf  $POWER / $DIVIDE & scale =2 )
