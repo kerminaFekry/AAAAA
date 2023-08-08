@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(printf $NR % 2 == 1 - )
