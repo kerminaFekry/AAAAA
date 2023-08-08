@@ -1,2 +1,2 @@
 #!/bin/bash
-echo for i in {a..z}; do
+
